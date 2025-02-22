@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm S Harsha Bhat 👋  
 
-<!--
-**HarshaBhat24/HarshaBhat24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm a passionate cybersecurity and web development enthusiast with a strong foundation in ethical hacking, real-world CTF challenges, and full-stack development.  
+- 🏆 **Finalist at Smart India Hackathon (Top 1%)**  
+- 💻 **CodeChef 1400+ rated programmer**  
 
-Here are some ideas to get you started:
+## 🎯 What I Do  
+- 🎓 **Undergraduate Student**  
+- 🔒 **Cybersecurity & Ethical Hacking**  
+- 🌐 **Full-Stack Web Development**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Programming Languages:** Python, C  
+- **Web Development:** Flask, React, SQL  
+- **Cybersecurity Tools:** Nmap  
+- **AI & ML:** OpenCV, MediaPipe  
+
+## 📌 Notable Projects  
+- **Posture Detection Model** using OpenCV & MediaPipe  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-harsha-bhat/)  
+📧 **Email:** harshabhat666@gmail.com  
