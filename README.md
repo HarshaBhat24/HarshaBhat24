@@ -17,6 +17,7 @@ I'm a passionate cybersecurity and web development enthusiast with a strong foun
 - **AI & ML:** OpenCV, MediaPipe  
 
 ## 📌 Notable Projects  
+- **Phishing and Malware Detector** using Random Forest
 - **Posture Detection Model** using OpenCV & MediaPipe  
 
 ## 📫 Connect with Me  
