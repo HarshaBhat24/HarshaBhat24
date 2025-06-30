@@ -9,7 +9,6 @@ I'm passionate about **Cybersecurity** and **Web Development**, with a growing i
 
 - 🔐 Tinker with ethical hacking labs, CTFs, and exploit development  
 - 💻 Build secure and scalable full-stack web applications  
-- 🧠 Learn by doing — hands-on problem solving and open-source exploration  
 - 🏆 Active participant in hackathons, cybersecurity challenges, CTFs and developer communities  
 
 ---
@@ -40,12 +39,9 @@ I'm passionate about **Cybersecurity** and **Web Development**, with a growing i
 ### 🔐 **VigiLynx**  
 A full-fledged web platform focused on personal and family cybersecurity.  
 **Features:**  
-- Phishing Detection using ML + heuristics  
-- Malware Detection
-- Parental Monitoring Dashboard  
+- Phishing and Malware Detection using ML + heuristics  
 - Cybersecurity News Feed  
 - Community Discussion Portal  
-- Cyber Hygiene Learning Modules  
 - Password Strength Checker & Generator  
 > **Tech:** React.js, TypeScript, TailwindCSS, zxcvbn  
 
