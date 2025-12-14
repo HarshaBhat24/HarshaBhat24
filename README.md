@@ -67,7 +67,7 @@ I’m always up for collaborating on cybersecurity, web apps, or open-source con
 Feel free to reach out via email or any of the platforms below. 👇  
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-harsha-bhat/) [![Email](https://img.shields.io/badge/Email-harshabhat666@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshabhat666@gmail.com) [![GeeksforGeeks](https://img.shields.io/badge/GFG-harshabhat4272-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/harshabhat4272/) [![CodeChef](https://img.shields.io/badge/CodeChef-s_harsha_bhat-5B4638?style=flat&logo=codechef)](https://www.codechef.com/users/s_harsha_bhat) [![picoCTF](https://img.shields.io/badge/picoCTF-S_Harsha_Bhat-blueviolet?style=flat)](https://play.picoctf.org/users/S_Harsha_Bhat)   [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat&logo=tryhackme)](https://tryhackme.com/r/p/SHarshaBhat) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-harsha-bhat/) [![Email](https://img.shields.io/badge/Email-harshabhat666@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshabhat666@gmail.com) [![picoCTF](https://img.shields.io/badge/picoCTF-S_Harsha_Bhat-blueviolet?style=flat)](https://play.picoctf.org/users/S_Harsha_Bhat)   [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat&logo=tryhackme)](https://tryhackme.com/r/p/SHarshaBhat) 
 
 ---
 
