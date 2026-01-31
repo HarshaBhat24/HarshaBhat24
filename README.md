@@ -1,14 +1,13 @@
 # 👋 Hello there!, I'm S Harsha Bhat  
 
 🎓 I'm a B.E. student at **New Horizon College of Engineering**, majoring in **Information Science and Engineering**.  
-I'm passionate about **Cybersecurity** and **Web Development**, with a growing interest in cryptography and digital forensics.
+I'm passionate about **Cybersecurity** with a growing interest in cryptography and digital forensics.
 
 ---
 
 ## 💡 What I Do
 
 - 🔐 Tinker with ethical hacking labs, CTFs, and exploit development  
-- 💻 Build secure and scalable full-stack web applications  
 - 🏆 Active participant in hackathons, cybersecurity challenges, CTFs and developer communities  
 
 ---
@@ -26,10 +25,8 @@ I'm passionate about **Cybersecurity** and **Web Development**, with a growing i
 
 | Domain            | Tools & Technologies |
 |------------------|----------------------|
-| 👨‍💻 Programming     | Python, C, JavaScript, TypeScript |
-| 🌐 Web Dev         | React.js, Flask, Tailwind CSS, SQL |
+| 👨‍💻 Programming     | Python, C, Bash, TypeScript |
 | 🔍 Cybersecurity   | Nmap, Cryptography, Digital Forensics |
-| 🧠 AI & Vision     | OpenCV, MediaPipe |
 | 🔧 Utilities       | Git, Linux (Kali, Ubuntu), zxcvbn (password strength) |
 
 ---
@@ -49,15 +46,14 @@ A full-fledged web platform focused on personal and family cybersecurity.
 
 ### 🕵️‍♂️ **CipherCrack**  
 Command-line tool for CTF players to **encrypt/decrypt classical ciphers** effortlessly.  
-Supports: Caesar, ROT13, Vigenère, Hill, Affine, Monoalphabetic  
+Supports: Caesar, ROT13, Vigenère, Hill, Affine, Monoalphabetic, Atbash, Baconian
 > **Tech:** Python  
 
 ---
-
-### 🏋️ **Posture Detector**  
-Analyzes posture and performance for various workouts via uploaded videos.  
-Supports: Push-ups, Squats, Plank, Shoulder Taps, Lunges  
-> **Tech:** OpenCV, MediaPipe  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Harshabhat24&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harshabhat24&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshabhat24&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -71,4 +67,4 @@ Feel free to reach out via email or any of the platforms below. 👇
 
 ---
 
-> _Penetrating problems, patching progress_  
+> _Penetrating problems, patching progress_
