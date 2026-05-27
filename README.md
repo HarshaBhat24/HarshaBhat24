@@ -1,70 +1,167 @@
-# 👋 Hello there!, I'm S Harsha Bhat  
+<div align="center">
 
-🎓 I'm a B.E. student at **New Horizon College of Engineering**, majoring in **Information Science and Engineering**.  
-I'm passionate about **Cybersecurity** with a growing interest in cryptography and digital forensics.
+# 👾 S Harsha Bhat
 
----
+### `Red Teaming Enthusiast` • `CTF Player` • `Cybersecurity Researcher`
 
-## 💡 What I Do
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Think+Adversarially.+Build+Defensively.;Recon+First.+Everything+Else+Follows.;Curiosity+is+the+First+Exploit.;Red+Team+Focused+Cybersecurity+Student" alt="Typing SVG" />
+</p>
 
-- 🔐 Tinker with ethical hacking labs, CTFs, and exploit development  
-- 🏆 Active participant in hackathons, cybersecurity challenges, CTFs and developer communities  
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://harsha-bhat.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/s-harsha-bhat/)
+[![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github)](https://github.com/HarshaBhat24)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/r/p/SHarshaBhat)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/s_harsha_bhat)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/harshabhat4272/)
+[![picoCTF](https://img.shields.io/badge/picoCTF-4B0082?style=for-the-badge)](https://play.picoctf.org/users/S_Harsha_Bhat)
 
----
-
-## 🏆 Achievements
-
-- 🥇 **Winner** – Hackathena @ JEC Thrissur, Cybersecurity Track  
-- 🛡️ **Finalist** – CTF Challenge (Ranked 17 out of 776 participants)  
-- 🇮🇳 **Finalist** – Smart India Hackathon (Top 1%)  
-- ⚙️ **2⭐** coder on CodeChef  
-
----
-
-## 🛠️ Tech Stack
-
-| Domain            | Tools & Technologies |
-|------------------|----------------------|
-| 👨‍💻 Programming     | Python, C, Bash, TypeScript |
-| 🔍 Cybersecurity   | Nmap, Cryptography, Digital Forensics |
-| 🔧 Utilities       | Git, Linux (Kali, Ubuntu), zxcvbn (password strength) |
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🧠 About Me
 
-### 🔐 **VigiLynx**  
-A full-fledged web platform focused on personal and family cybersecurity.  
-**Features:**  
-- Phishing and Malware Detection using ML + heuristics  
-- Cybersecurity News Feed  
-- Community Discussion Portal  
-- Password Strength Checker & Generator  
-> **Tech:** React.js, TypeScript, TailwindCSS, zxcvbn  
+🎓 B.E. student in **Information Science and Engineering** at **New Horizon College of Engineering, Bengaluru**
 
----
+🔐 Red team–oriented cybersecurity student focused on:
+- Web exploitation
+- Cryptography
+- Digital forensics
+- Reconnaissance
+- Offensive security tooling
 
-### 🕵️‍♂️ **CipherCrack**  
-Command-line tool for CTF players to **encrypt/decrypt classical ciphers** effortlessly.  
-Supports: Caesar, ROT13, Vigenère, Hill, Affine, Monoalphabetic, Atbash, Baconian
-> **Tech:** Python  
+⚡ Solved **150+ CTF challenges** across platforms like picoCTF, TryHackMe, and HackTheBox-style environments while documenting methodologies through technical writeups.
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harshabhat24&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harshabhat24&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshabhat24&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+💻 Passionate about building security-focused applications and understanding systems from an attacker’s perspective.
 
 ---
 
-## 📫 Let’s Connect
+# 🚩 Current Focus
 
-I’m always up for collaborating on cybersecurity, web apps, or open-source contributions.  
-Feel free to reach out via email or any of the platforms below. 👇  
+```bash
+> Red Teaming
+> Web Reconnaissance
+> Offensive Security Automation
+> Cryptanalysis & CTF Engineering
+> Browser-Based Attack Surfaces
+> Security+ Preparation
+```
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-harsha-bhat/) [![Email](https://img.shields.io/badge/Email-harshabhat666@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshabhat666@gmail.com) [![picoCTF](https://img.shields.io/badge/picoCTF-S_Harsha_Bhat-blueviolet?style=flat)](https://play.picoctf.org/users/S_Harsha_Bhat)   [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat&logo=tryhackme)](https://tryhackme.com/r/p/SHarshaBhat) 
+
+# 🛠️ Tech Stack
+
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-121212?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=flat&logo=javascript)
+![C](https://img.shields.io/badge/C-121212?style=flat&logo=c)
+![Bash](https://img.shields.io/badge/Bash-121212?style=flat&logo=gnubash)
+
+### Security & Systems
+![Linux](https://img.shields.io/badge/Linux-121212?style=flat&logo=linux)
+![Kali](https://img.shields.io/badge/Kali-121212?style=flat&logo=kalilinux)
+![Wireshark](https://img.shields.io/badge/Wireshark-121212?style=flat&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-121212?style=flat)
+![Git](https://img.shields.io/badge/Git-121212?style=flat&logo=git)
+
+### Development
+![React](https://img.shields.io/badge/React-121212?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-121212?style=flat&logo=tailwindcss)
+![Flask](https://img.shields.io/badge/Flask-121212?style=flat&logo=flask)
+![SQL](https://img.shields.io/badge/SQL-121212?style=flat)
 
 ---
 
-> _Penetrating problems, patching progress_
+# 🚀 Featured Projects
+
+## 🔐 VigiLynx
+### *Phishing & Malware Detection Platform*
+
+Security-focused platform engineered to analyze phishing URLs, suspicious files, and browser-based threats.
+
+### Features
+- Phishing URL Detection
+- VirusTotal Threat Intelligence Integration
+- Password Strength Analyzer & Generator
+- Browser Threat Monitoring
+- Cybersecurity Learning Modules
+- Community Discussion Portal
+
+### Tech Stack
+`React.js` `TypeScript` `TailwindCSS` `VirusTotal API` `zxcvbn`
+
+🔗 https://vigilynx-web.vercel.app/
+
+---
+
+## 🕵️ CipherCrack
+### *Offline Cryptography CLI Toolkit*
+
+Python-based offensive cryptography toolkit designed for CTF workflows and rapid cipher analysis.
+
+### Supported Ciphers
+- Caesar Cipher
+- ROT13
+- Vigenère Cipher
+- Hill Cipher
+- Affine Cipher
+- Monoalphabetic Substitution Cipher
+
+### Highlights
+- Automated brute-force workflows
+- Key recovery techniques
+- Modular CLI architecture
+- Optimized for live CTF environments
+
+---
+
+# 🏆 Achievements
+
+🥇 **Winner** — Cybersecurity Track, HackAthena’25  
+🏁 **Finalist** — KJSSE CTF 2.0 (17th out of 662 teams)  
+🇮🇳 **Finalist** — Smart India Hackathon 2024 (Top 1%)  
+⚔️ Solved **150+ CTF Challenges** across multiple cybersecurity platforms  
+📜 **ISC2 Certified in Cybersecurity (CC)** — 2025  
+
+---
+
+# 💼 Experience
+
+## Epicor Software — Cybersecurity Intern
+📍 Bengaluru | `Oct 2025 – Present`
+
+- Performed adversarial and edge-case testing across enterprise workflows
+- Developed PowerShell and batch scripts within Jenkins CI/CD pipelines
+- Gained exposure to enterprise deployment architecture and attacker-relevant infrastructure understanding
+- Debugged workflow execution failures through systematic analysis and scripting
+
+---
+
+# 📫 Contact
+
+📧 **Email:** harshabhat666@gmail.com  
+🌐 **Portfolio:** https://harsha-bhat.vercel.app/  
+💼 **LinkedIn:** https://www.linkedin.com/in/s-harsha-bhat/  
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy breaking down cryptographic systems and automating repetitive CTF workflows more than actually solving challenges manually.
+
+---
+
+<div align="center">
+
+### “Offense drives stronger defense.”
+
+### “Recon first. Everything else follows.”
+
+```bash
+$ whoami
+HarshaBhat24
+```
+
+</div>
