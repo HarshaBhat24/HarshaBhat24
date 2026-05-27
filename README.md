@@ -2,8 +2,6 @@
 
 # S Harsha Bhat
 
-### `Red Teaming Enthusiast` • `CTF Player` • `Cybersecurity Researcher`
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Think+Adversarially.+Build+Defensively.;Recon+First.+Everything+Else+Follows.;Curiosity+is+the+First+Exploit.;Red+Team+Focused+Cybersecurity+Student" alt="Typing SVG" />
 </p>
@@ -72,17 +70,17 @@ Python-based offensive cryptography toolkit designed for CTF workflows and rapid
 # Achievements
 
 **Winner** — Cybersecurity Track, HackAthena’25  
-🏁 **Finalist** — KJSSE CTF 2.0 (17th out of 662 teams)  
-🇮🇳 **Finalist** — Smart India Hackathon 2024 (Top 1%)  
+**Finalist** — KJSSE CTF 2.0 (17th out of 662 teams)  
+**Finalist** — Smart India Hackathon 2024 (Top 1%)  
 ⚔️ Solved **150+ CTF Challenges** across multiple cybersecurity platforms  
-📜 **ISC2 Certified in Cybersecurity (CC)** — 2025  
+**ISC2 Certified in Cybersecurity (CC)** — 2025  
 
 ---
 
 # Work
 
 ## Epicor Software — Intern
-📍 Bengaluru | `Oct 2025 – Present`
+Bengaluru | `Oct 2025 – Present`
 
 ---
 
