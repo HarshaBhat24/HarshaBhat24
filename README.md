@@ -21,7 +21,7 @@
 
 B.E. student in **Information Science and Engineering** at **New Horizon College of Engineering, Bengaluru**
 
-Red team–oriented cybersecurity student focused on:
+Red team-oriented cybersecurity student focused on:
 - Web exploitation
 - Cryptography
 - Digital forensics
@@ -77,16 +77,15 @@ Python-based offensive cryptography toolkit designed for CTF workflows and rapid
 
 # Certifications
 
-**CompTIA Security+ (SY0-701)** — 2026
-**ISC2 Certified in Cybersecurity (CC)** — 2025
+**CompTIA Security+ (SY0-701)** - 2026  
+**ISC2 Certified in Cybersecurity (CC)** - 2025
 
---
 
 # Achievements
 
-**Winner** — Cybersecurity Track, HackAthena’25  
-**Finalist** — KJSSE CTF 2.0 (17th out of 662 teams)  
-**Finalist** — Smart India Hackathon 2024 (Top 1%)
+**Winner** - Cybersecurity Track, HackAthena’25  
+**Finalist** - KJSSE CTF 2.0 (17th out of 662 teams)  
+**Finalist** - Smart India Hackathon 2024 (Top 1%)
 **Top 15%** globally on TryHackMe
 Solved **150+ CTF Challenges** across multiple cybersecurity platforms  
 
@@ -94,8 +93,8 @@ Solved **150+ CTF Challenges** across multiple cybersecurity platforms
 
 # Work
 
-## Epicor Software — Intern
-Bengaluru | `Oct 2025 – Present`
+## Epicor Software - Intern
+Bengaluru | `Oct 2025 - Present`
 
 ---
 
