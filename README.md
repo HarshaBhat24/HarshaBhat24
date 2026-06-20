@@ -7,6 +7,7 @@
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://harsha-bhat.vercel.app/)
+[![CTF Writeups](https://img.shields.io/badge/CTF_Writeups-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black)](https://harsha-bhat.vercel.app/ctf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/s-harsha-bhat/)
 [![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github)](https://github.com/HarshaBhat24)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/r/p/SHarshaBhat)
@@ -40,6 +41,13 @@ Solved **150+ CTF challenges** across platforms like picoCTF, TryHackMe, and Hac
 ![C](https://img.shields.io/badge/C-121212?style=flat&logo=c)
 ![Bash](https://img.shields.io/badge/Bash-121212?style=flat&logo=gnubash)
 
+### Networking & Security
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-121212?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-121212?style=flat&logo=wireshark)
+![PowerShell](https://img.shields.io/badge/PowerShell-121212?style=flat&logo=powershell)
+![Jenkins](https://img.shields.io/badge/Jenkins-121212?style=flat&logo=jenkins)
+
 ### Security & Systems
 ![Linux](https://img.shields.io/badge/Linux-121212?style=flat&logo=linux)
 ![Kali](https://img.shields.io/badge/Kali-121212?style=flat&logo=kalilinux)
@@ -54,7 +62,7 @@ Solved **150+ CTF challenges** across platforms like picoCTF, TryHackMe, and Hac
 ## VigiLynx
 ### *Phishing & Malware Detection Platform*
 
-Security-focused platform engineered to analyze phishing URLs, suspicious files, and browser-based threats.
+Featured phishing and malware detection platform leveraging URL intelligence, VirusTotal integration, browser threat monitoring, and password security analysis.
 
 https://vigilynx-web.vercel.app/
 
@@ -67,13 +75,20 @@ Python-based offensive cryptography toolkit designed for CTF workflows and rapid
 
 ---
 
+# Certifications
+
+**CompTIA Security+ (SY0-701)** — 2026
+**ISC2 Certified in Cybersecurity (CC)** — 2025
+
+--
+
 # Achievements
 
 **Winner** — Cybersecurity Track, HackAthena’25  
 **Finalist** — KJSSE CTF 2.0 (17th out of 662 teams)  
-**Finalist** — Smart India Hackathon 2024 (Top 1%)  
+**Finalist** — Smart India Hackathon 2024 (Top 1%)
+**Top 15%** globally on TryHackMe
 Solved **150+ CTF Challenges** across multiple cybersecurity platforms  
-**ISC2 Certified in Cybersecurity (CC)** — 2025  
 
 ---
 
