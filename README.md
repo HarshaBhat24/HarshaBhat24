@@ -86,7 +86,7 @@ Python-based offensive cryptography toolkit designed for CTF workflows and rapid
 **Winner** - Cybersecurity Track, HackAthena’25  
 **Finalist** - KJSSE CTF 2.0 (17th out of 662 teams)  
 **Finalist** - Smart India Hackathon 2024 (Top 1%)
-**Top 15%** globally on TryHackMe
+**Top 15%** globally on TryHackMe  
 Solved **150+ CTF Challenges** across multiple cybersecurity platforms  
 
 ---
