@@ -6,10 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Think+Adversarially.+Build+Defensively.;Recon+First.+Everything+Else+Follows.;Curiosity+is+the+First+Exploit.;Red+Team+Focused+Cybersecurity+Student" alt="Typing SVG" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://harsha-bhat.vercel.app/)
-[![CTF Writeups](https://img.shields.io/badge/CTF_Writeups-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black)](https://harsha-bhat.vercel.app/ctf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00E7A6?style=for-the-badge&logo=vercel&logoColor=black)](https://harsha-bhat.vercel.app/)
+[![CTF Writeups](https://img.shields.io/badge/CTF_Writeups-05AFAA?style=for-the-badge)](https://harsha-bhat.vercel.app/ctf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/s-harsha-bhat/)
-[![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github)](https://github.com/HarshaBhat24)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/r/p/SHarshaBhat)
 [![picoCTF](https://img.shields.io/badge/picoCTF-4B0082?style=for-the-badge)](https://play.picoctf.org/users/S_Harsha_Bhat)
 
@@ -17,100 +16,48 @@
 
 ---
 
-# About Me
+B.E. **Information Science & Engineering** · New Horizon College of Engineering, Bengaluru
+Red team-oriented · Web exploitation · Cryptography · Digital Forensics · Offensive tooling
 
-B.E. student in **Information Science and Engineering** at **New Horizon College of Engineering, Bengaluru**
-
-Red team-oriented cybersecurity student focused on:
-- Web exploitation
-- Cryptography
-- Digital forensics
-- Reconnaissance
-- Offensive security tooling
-
-Solved **150+ CTF challenges** across platforms like picoCTF, TryHackMe, and HackTheBox-style environments while documenting methodologies through technical writeups.
+**200+ CTF challenges** solved across picoCTF, TryHackMe, and HackTheBox-style environments · Top 10% globally on TryHackMe
 
 ---
 
-# Tech Stack
+## Highlights
 
-### Languages & Scripting
-![Python](https://img.shields.io/badge/Python-121212?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/C-121212?style=flat&logo=c)
-![Bash](https://img.shields.io/badge/Bash-121212?style=flat&logo=gnubash)
-
-### Networking & Security
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-121212?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-121212?style=flat&logo=wireshark)
-![PowerShell](https://img.shields.io/badge/PowerShell-121212?style=flat&logo=powershell)
-![Jenkins](https://img.shields.io/badge/Jenkins-121212?style=flat&logo=jenkins)
-
-### Security & Systems
-![Linux](https://img.shields.io/badge/Linux-121212?style=flat&logo=linux)
-![Kali](https://img.shields.io/badge/Kali-121212?style=flat&logo=kalilinux)
-![Wireshark](https://img.shields.io/badge/Wireshark-121212?style=flat&logo=wireshark)
-![Nmap](https://img.shields.io/badge/Nmap-121212?style=flat)
-![Git](https://img.shields.io/badge/Git-121212?style=flat&logo=git)
+| | |
+|---|---|
+|  **HackAthena'25** | Winner - Cybersecurity Track (built VigiLynx) |
+|  **KJSSE CTF 2.0** | 17th / 662 teams |
+|  **Smart India Hackathon 2024** | Finalist - Top 1% |
+|  **CompTIA Security+** SY0-701 | Jun 2026 |
+|  **ISC2 Certified in Cybersecurity** (CC) | 2025 |
 
 ---
 
-# My Work
+## Projects
 
-## VigiLynx
-### *Phishing & Malware Detection Platform*
+**[VigiLynx](https://vigilynx-web.vercel.app/)** - Phishing & malware detection platform (Chrome Extension + web app + threat dashboard). Built for HackAthena'25; integrates VirusTotal, URL intelligence, and real-time browser threat monitoring.
 
-Featured phishing and malware detection platform leveraging URL intelligence, VirusTotal integration, browser threat monitoring, and password security analysis.
+**CipherCrack** - Offline Python CLI toolkit for CTF cryptography workflows. Rapid cipher analysis and automated decryption pipelines.
 
-https://vigilynx-web.vercel.app/
-
----
-
-## CipherCrack
-### *Offline Cryptography CLI Toolkit*
-
-Python-based offensive cryptography toolkit designed for CTF workflows and rapid cipher analysis.
+**Freelance VAPT** *(Jul–Aug 2026)* - Black-box + static code analysis security assessment of an enterprise SaaS platform following OWASP WSTG methodology.
 
 ---
 
-# Certifications
+## Experience
 
-**CompTIA Security+ (SY0-701)** - 2026  
-**ISC2 Certified in Cybersecurity (CC)** - 2025
-
-
-# Achievements
-
-**Winner** - Cybersecurity Track, HackAthena’25  
-**Finalist** - KJSSE CTF 2.0 (17th out of 662 teams)  
-**Finalist** - Smart India Hackathon 2024 (Top 1%)
-**Top 15%** globally on TryHackMe  
-Solved **150+ CTF Challenges** across multiple cybersecurity platforms  
+**Product Development Intern · Epicor Software** · Bengaluru *(Oct 2025 - Present)*
+CI/CD pipeline automation (Azure DevOps), PowerShell scripting across agent VMs, UI automation (TypeScript).
 
 ---
 
-# Work
+## Stack
 
-## Epicor Software - Intern
-Bengaluru | `Oct 2025 - Present`
-
----
-
-# Contact
-
-**Email:** harshabhat666@gmail.com  
-**Portfolio:** https://harsha-bhat.vercel.app/  
-**LinkedIn:** https://www.linkedin.com/in/s-harsha-bhat/  
+`Python` `TypeScript` `Bash` `C` `PowerShell` | `Linux` `Kali` `Nmap` `Wireshark` `Burp Suite` | `Azure DevOps` `Git`
 
 ---
-
-<div>
 
 ```bash
 $ whoami
 S Harsha Bhat
-```
-
-</div>
